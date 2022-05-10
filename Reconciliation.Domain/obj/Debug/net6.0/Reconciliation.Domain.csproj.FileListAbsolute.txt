@@ -1,0 +1,12 @@
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\bin\Debug\net6.0\Reconciliation.Domain.deps.json
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\bin\Debug\net6.0\Reconciliation.Domain.dll
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\bin\Debug\net6.0\Reconciliation.Domain.pdb
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.csproj.AssemblyReference.cache
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.AssemblyInfoInputs.cache
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.AssemblyInfo.cs
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.dll
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\refint\Reconciliation.Domain.dll
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\Reconciliation.Domain.pdb
+C:\Users\Nakul Saha\source\repos\Bookkeeping2\Reconciliation.Domain\obj\Debug\net6.0\ref\Reconciliation.Domain.dll
